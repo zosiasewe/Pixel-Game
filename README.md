@@ -7,6 +7,11 @@ A cozy pixel art platformer that unfolds throughout December, revealing new anim
 
 This game was created for fun as a festive advent calendar experience
 
+## My pixel-art
+- **Animals**
+- **Player**
+- **Small assets**
+
 ## Features
 
 ###  Time-Gated Content
@@ -78,14 +83,11 @@ This game uses some amazing pixel art assets from talented creators!!!
 - [CC-YAL-6W4 Font](https://yellowafterlife.itch.io/cc-yal-6w4) by YellowAfterlife
 
 ##  Gallery
+<img width="1087" height="798" alt="sloth" src="https://github.com/user-attachments/assets/d14aba3d-f552-4fb6-8bb3-8c972392a9bd" />
+<img width="1570" height="642" alt="forest lis" src="https://github.com/user-attachments/assets/90089e49-0885-470c-a9ba-5af045b79dae" />
+<img width="1513" height="692" alt="ali" src="https://github.com/user-attachments/assets/9e2c9472-7e15-485e-a37d-a1063decc892" />
+<img width="1067" height="595" alt="jeż" src="https://github.com/user-attachments/assets/0277b6ff-94cc-445f-8ae8-b30db223beee" />
 
-![Gameplay Screenshot](screenshot.png)
-*Exploring the magical worlds and collecting items*
-
-<!-- Add more screenshots here as needed:
-![Animals](animals.png)
-![Assets](assets.png)
--->
 
 
 ##  License
