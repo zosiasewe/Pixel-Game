@@ -36,6 +36,7 @@ Collect magical potions to unlock new character appearances:
 - Collect 6 shakes to unlock Outfit 4
 - ...
 - Switch between unlocked outfits anytime with number keys (1-4)
+<img width="280" height="320" alt="final mati" src="https://github.com/user-attachments/assets/7f4ec598-0e73-4558-9b20-9d23e522cd65" />
 
 ### Gameplay Elements
 - Smooth platforming mechanics
