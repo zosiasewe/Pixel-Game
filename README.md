@@ -37,6 +37,7 @@ Collect magical potions to unlock new character appearances:
 - ...
 - Switch between unlocked outfits anytime with number keys (1-4)
 <img width="560" height="640" alt="final mati" src="https://github.com/user-attachments/assets/7f4ec598-0e73-4558-9b20-9d23e522cd65" />
+<img width="64" height="80" alt="New Piskel (6)" src="https://github.com/user-attachments/assets/c828b472-6191-4546-b733-e9643a76daaa" />
 
 ### Gameplay Elements
 - Smooth platforming mechanics
