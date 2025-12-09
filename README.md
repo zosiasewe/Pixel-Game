@@ -86,8 +86,6 @@ This game uses some amazing pixel art assets from talented creators!!!
 <img width="1087" height="798" alt="sloth" src="https://github.com/user-attachments/assets/d14aba3d-f552-4fb6-8bb3-8c972392a9bd" />
 <img width="1570" height="642" alt="forest lis" src="https://github.com/user-attachments/assets/90089e49-0885-470c-a9ba-5af045b79dae" />
 <img width="1513" height="692" alt="ali" src="https://github.com/user-attachments/assets/9e2c9472-7e15-485e-a37d-a1063decc892" />
-<img width="1067" height="595" alt="jeż" src="https://github.com/user-attachments/assets/0277b6ff-94cc-445f-8ae8-b30db223beee" />
-
 
 
 ##  License
