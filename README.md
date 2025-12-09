@@ -2,7 +2,7 @@
 
 A cozy pixel art platformer that unfolds throughout December, revealing new animals and magical worlds each day as an interactive advent calendar experience!!!
 
-![Game Screenshot](screenshot.png)
+<img width="1437" height="890" alt="wydra" src="https://github.com/user-attachments/assets/a92b8839-2857-41f9-80d0-1058942a3638" />
 
 
 This game was created for fun as a festive advent calendar experience
